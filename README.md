@@ -1,11 +1,3 @@
----
-
-# 🌟 **A Épica Jornada de Brianna: Uma Camponesa na Escócia Medieval** 🌟
-
-> *"Em uma terra de mistérios e lendas, o destino de uma camponesa mudará a história para sempre."*
-
----
-
 ## 📜 **O Enredo**
 
 Brianna, uma jovem camponesa da Escócia medieval, leva uma vida simples até tropeçar em um artefato antigo numa noite de lua cheia. Ao tocá-lo, visões de batalhas lendárias revelam sua conexão com uma linhagem esquecida de guerreiros. Perseguida por forças sombrias que desejam o poder do objeto, ela foge de sua aldeia rumo às montanhas escocesas. 
